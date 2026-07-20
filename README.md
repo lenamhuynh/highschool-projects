@@ -1,10 +1,8 @@
 ## Water Reminder App
 This application reminds people to drink water everyday. It allows users to input the amount of water that they take, track their progress according to their goals using the progress bar, and change their goals in the Goal section. Built with MIT App Inventor - see `/WaterReminderApp.aia`
 ![Designer view](images/Designer_View.png)
-![Blocks view](images/Block_View.png)
-![App running](images/User_View.png)
-![App running](images/User_View(1).png)
-![App running](images/User_View(2).png)
+[View all photos](https://github.com/lenamhuynh/highschool-projects/tree/main/images)
+
 ## Racing Car
 Built using Arduino, electrical components such as motors, LEDs, resistors, buzzers, and reused materials. 
 
