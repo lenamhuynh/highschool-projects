@@ -5,6 +5,7 @@ This application reminds people to drink water everyday. It allows users to inpu
 
 ## Racing Car
 Built using Arduino, electrical components such as motors, LEDs, resistors, buzzers, and reused materials. 
+[View all photos](https://github.com/lenamhuynh/highschool-projects/tree/main/carimages)
 
 ## Simon Memory Game
 A two-player version of the classic Simon Memory Game
