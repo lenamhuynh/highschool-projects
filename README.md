@@ -13,3 +13,6 @@ A two-player version of the classic Simon Memory Game
 - A player wins if their opponent fails to repeat the pattern - but if only that player manages to do so, because if they cannot, both player fails
 - Each LED has a distinct sound that plays when the player presses the button, and different songs will be played depends on the results of the game.
 See the project at `/SimonMemoryGame.ino`
+
+## Date Calculator
+This C program allows user to input a date in the format of mm dd yy and the number of days to add to this date. The result is new date after adding the specified number of days, accounting for varying month lengths and leap years. See the project at `/SimonMemoryGame.txt`
