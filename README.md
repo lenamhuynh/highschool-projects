@@ -5,4 +5,11 @@ This application reminds people to drink water everyday. It allows users to inpu
 Built using Arduino, electrical components such as motors, LEDs, resistors, buzzers, and reused materials. 
 
 ## Simon Memory Game
-Planned and built a two-player version of the classic Simon Memory Game Each player will receive the same LEDs pattern, and they need to push the buttons accordingly. A player wins if their opponent fails to memorize the pattern, but here's the catch: that player also needs to finish that level correctly, or else both players lose. The game has 4 LEDs, and at Level 1, it will only flash once. The game advances to the next level if both players manage to finish their turn, and each new level will add one more flash to the pattern (Level 2 will have 2 flashes, Level 3 will have 3 flashes and so on). See the project at `/SimonMemoryGame.ino`
+A two-player version of the classic Simon Memory Game
+**How it works:**
+- Both players see the same LED pattern and must repeat it using the buttons
+- Level 1 starts with a single flash, and each new level will add one more flash to the pattern
+- Both players will need to complete a level correctly to advance
+- A player wins if their opponent fails to repeat the pattern - but if only that player manages to do so, because if they cannot, both player fails
+- Each LED has a distinct sound that plays when the player presses the button, and different songs will be played depends on the results of the game.
+See the project at `/SimonMemoryGame.ino`
