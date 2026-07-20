@@ -15,4 +15,4 @@ A two-player version of the classic Simon Memory Game
 See the project at `/SimonMemoryGame.ino`
 
 ## Date Calculator
-This C program allows user to input a date in the format of mm dd yy and the number of days to add to this date. The result is new date after adding the specified number of days, accounting for varying month lengths and leap years. See the project at `/SimonMemoryGame.txt`
+This C program allows user to input a date in the format of mm dd yy and the number of days to add to this date. The result is new date after adding the specified number of days, accounting for varying month lengths and leap years. See the project at `/Calendar.txt`
