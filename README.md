@@ -24,6 +24,6 @@ A two-player version of the classic Simon Memory Game
 - Both players will need to complete a level correctly to advance
 - A player wins if their opponent fails to repeat the pattern - but if only that player manages to do so, because if they cannot, both player fails
 - Each LED has a distinct sound that plays when the player presses the button, and different songs will be played depends on the results of the game.
-See the project at `/SimonMemoryGame.ino`
+See the Arduino code at `/SimonMemoryGame.ino`
 
 
