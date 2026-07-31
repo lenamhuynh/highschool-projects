@@ -11,6 +11,9 @@ https://youtu.be/XqmHnOMMV8o
 
 *A video showing the data that is read from the sensors being uploaded and updated on the Blynk app, which will inform the user about the conditions inside of the cabinet*
 
+![DataFromSensors](cabinet_images/PLC_Wiring_Diagram.png)
+*A diagram showing the wiring to the PLC, with the assumption of inputs as switches, since they both produce HIGH and LOW signals*
+
 ![DataFromSensors](cabinet_images/Circuit.jpg)
 
 *A circuit that is built on a breadboard with sensors to collect data from the surrounding, which will be repositioned inside of the cabinet later on*
