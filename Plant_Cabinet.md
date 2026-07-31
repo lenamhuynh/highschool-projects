@@ -14,6 +14,5 @@ https://youtu.be/XqmHnOMMV8o
 ![DataFromSensors](cabinet_images/Circuit.jpg)
 *A circuit that is built on a breadboard with sensors to collect data from the surrounding, which will be repositioned inside of the cabinet later on*
 
-Items List: Every devices and sensors that have been used in this project*
-![Items List](cabinet_images/Items_List.xlxs)
+
 
