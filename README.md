@@ -1,5 +1,5 @@
 ## PLC-Controlled Plant Growing Cabinet
-Designed and built a self-monitoring cabinet that can grow plants in ideal conditions by controlling temperature, soil moisture, light, and humidity. It consists of an ESP32 for sensor monitoring and condition reporting to the user through Blynk, while sending signals to a PLC for time-controlled operation of grow lights, a heating lamp, a ventilation fan, and a water pump. See the project at `/Plant_Cabinet.txt`
+Designed and built a self-monitoring cabinet that can grow plants in ideal conditions by controlling temperature, soil moisture, light, and humidity. It consists of an ESP32 for sensor monitoring and condition reporting to the user through Blynk, while sending signals to a PLC for time-controlled operation of grow lights, a heating lamp, a ventilation fan, and a water pump. See the project at `/Plant_Cabinet.md`
 ![Project Overview](cabinet_images/Project_Diagram.png)
 
 *The system architecture diagram of the project*
