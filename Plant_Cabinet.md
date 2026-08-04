@@ -14,6 +14,8 @@ https://youtu.be/XqmHnOMMV8o
 ![DataFromSensors](cabinet_images/PLC_Wiring_Diagram.png)
 *A diagram showing the wiring to the PLC, with the assumption of inputs as switches, since they both produce HIGH and LOW signals*
 
+![WiringDiagram](cabinet_images/Wiring_Diagram.jpg)
+*The overall wiring diagram, which shows the connections between the ESP32, relay, and PLC Schneider SR2*
 
 ![DataFromSensors](cabinet_images/Circuit.jpg)
 
